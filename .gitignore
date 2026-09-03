@@ -1,0 +1,22 @@
+# Build output
+target/
+
+# Maven wrapper (local download)
+.mvn/
+
+# WAL data files
+*.wal
+*.wal.tmp
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+*.class
+
+# OS junk
+.DS_Store
+Thumbs.db
